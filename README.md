@@ -18,7 +18,7 @@
 - **Languages:** Java, Python, C, JavaScript, HTML, CSS  
 - **Frameworks:** Spring Boot, React.js  
 - **Database:** MySQL, SQL  
-- **Tools:** Git, Android Studio, VS Code, XAMPP  
+- **Tools:** Git, Android Studio, VS Code 
 - **Cloud:** Google Cloud (Associate Cloud Engineer – Certified)
 
 ---
@@ -42,9 +42,7 @@
 ### 📜 Certifications
 
 - 🟢 **Google Cloud Certified – Associate Cloud Engineer**  
-- 🧠 Foundations of Modern ML (by IIIT Hyderabad & HubData)  
-- 🧑‍🏫 NPTEL: Java Programming, DBMS, Python  
-- 🌐 AICTE & EduSkills Virtual Internships – Android, Java, Web Full Stack  
+- 🧠 Foundations of Modern ML (by IIIT Hyderabad & HubData)   
 - 🏆 Hackathons: DevAstra'25, SIH Internal Hackathon
 
 ---
