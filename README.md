@@ -1,52 +1,70 @@
 <h1 align="center">Hi there 👋, I'm Govardhan Siva Sai</h1>
-<h3 align="center">Aspiring Full Stack Developer | GCP Certified | ML Enthusiast</h3>
+<h3 align="center">Aspiring Java Full Stack Developer | Google Cloud Certified | Machine Learning Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **QuickServe – Local Service Finder**
-- 🌱 I’m learning **Spring Boot, React, and Google Cloud**
-- 💬 Ask me about **Java, APIs, and full-stack development**
-- 📫 Reach me at **bgss.2302@gmail.com**
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Information Technology @ VVIT, Guntur (2026 Batch)
+- 🌱 Learning and building with **Java, Spring Boot, React, SQL, and Machine Learning**
+- 🛠️ Currently working on: **QuickServe – Local Service Finder App**
+- 📊 Passionate about turning data and code into impactful applications
+- 📫 Reach me at: **bgss.2302@gmail.com**
 
 ---
 
-### 🧰 Tech Stack:
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Python, C, JavaScript, HTML, CSS  
+- **Frameworks:** Spring Boot, React.js  
+- **Database:** MySQL, SQL  
+- **Tools:** Git, Android Studio, VS Code, XAMPP  
+- **Cloud:** Google Cloud (Associate Cloud Engineer – Certified)
 
 ---
 
-### 📌 Featured Projects:
-- 🔧 [QuickServe – Local Service Finder](https://github.com/Govardhan2302/QuickServe)
-- 🤖 [ML Projects - IIIT-H Program](https://github.com/Govardhan2302/Machine-Learning-Projects)
-- 🌐 [Portfolio Website](https://govardhan2302.github.io/Govardhan-Portfolio/)
+### 🚀 Featured Projects
+
+- 🔧 [QuickServe – Local Service Finder](https://github.com/Govardhan2302/QuickServe)  
+  _React + Spring Boot based service discovery app with chatbot support_
+
+- 🌐 [VVIT ACM Website Clone](https://github.com/Govardhan2302/VVIT-ACM-Clone)  
+  _Recreated official ACM student site using HTML, CSS, JS_
+
+- 📊 [Walmart Sales Data Analysis](https://github.com/Govardhan2302/Walmart-Sales-Data-Analysis)  
+  _Used SQL to analyze trends, branches, and sales patterns_
+
+- 🤖 [Machine Learning Projects – IIIT Hyderabad Program](https://github.com/Govardhan2302/Machine-Learning-Projects)  
+  _Completed 5 practical ML projects as part of a structured 3-semester program_
 
 ---
 
-### 📊 GitHub Stats:
+### 📜 Certifications
+
+- 🟢 **Google Cloud Certified – Associate Cloud Engineer**  
+- 🧠 Foundations of Modern ML (by IIIT Hyderabad & HubData)  
+- 🧑‍🏫 NPTEL: Java Programming, DBMS, Python  
+- 🌐 AICTE & EduSkills Virtual Internships – Android, Java, Web Full Stack  
+- 🏆 Hackathons: DevAstra'25, SIH Internal Hackathon
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govardhan2302&show_icons=true&theme=react" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhan2302&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Govardhan2302&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhan2302&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect with Me:
-<p>
-  <a href="https://linkedin.com/in/govardhan-siva-sai-3a1a721b3">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bgss.2302@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Govardhan2302">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/govardhan-siva-sai-3a1a721b3)
+- [GitHub](https://github.com/Govardhan2302)
+- [Portfolio](https://govardhan2302.github.io/Govardhan-Portfolio/)
+- 📧 bgss.2302@gmail.com
+
+---
+
