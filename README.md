@@ -28,10 +28,10 @@
 - 🔧 [QuickServe – Local Service Finder](https://github.com/Govardhan2302/QuickServe)  
   _React + Spring Boot based service discovery app with chatbot support_
 
-- 🌐 [VVIT ACM Website Clone](https://github.com/Govardhan2302/VVIT-ACM-Clone)  
+- 🌐 [VVIT ACM Website Clone](https://github.com/Govardhan2302/ACM_WEBMASTER)  
   _Recreated official ACM student site using HTML, CSS, JS_
 
-- 📊 [Walmart Sales Data Analysis](https://github.com/Govardhan2302/Walmart-Sales-Data-Analysis)  
+- 📊 [Walmart Sales Data Analysis](https://github.com/Govardhan2302/Walmart-Sparkathon)  
   _Used SQL to analyze trends, branches, and sales patterns_
 
 - 🤖 [Machine Learning Projects – IIIT Hyderabad Program](https://github.com/Govardhan2302/Machine-Learning-Projects)  
