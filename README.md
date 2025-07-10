@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Java Full Stack Developer | ☁️ Google Cloud Certified | 🤖 Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3D62F5&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+%7C+ML+Explorer+%7C+Cloud+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3D62F5&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
